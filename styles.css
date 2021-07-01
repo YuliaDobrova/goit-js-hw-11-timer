@@ -1,0 +1,31 @@
+body {
+  background-color: teal;
+}
+.img {
+  display: block;
+  margin: 0 auto;
+}
+.text {
+  font-size: 30px;
+  font-family: Verdana, Tahoma, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  color: wheat;
+}
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.value {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 26px;
+  padding: 10px;
+  color: wheat;
+}
+.label {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 26px;
+  margin-right: 10px;
+  color: wheat;
+}
